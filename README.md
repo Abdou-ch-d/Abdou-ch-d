@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abderrahmen</h1>
 <h3 align="center">I am a software engineer from Algeria</h3>
-<img align="right" alt="Coding" width="400" src="[[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT_51u8vJnrUJYIzPhShS0wlqyhuPbotOdhw&usqp=CAU)](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://komarev.com/ghpvc/?username=abdou-ch-d&label=Profile%20views&color=0e75b6&style=flat" alt="abdou-ch-d)](https://i.gifer.com/7fzT.gif)">
+<img align="right" alt="Coding" width="400" src="[[[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT_51u8vJnrUJYIzPhShS0wlqyhuPbotOdhw&usqp=CAU)](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://komarev.com/ghpvc/?username=abdou-ch-d&label=Profile%20views&color=0e75b6&style=flat" alt="abdou-ch-d)](https://i.gifer.com/7fzT.gif)](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdou-ch-d" alt="abdou-ch-d" /></a> </p>
+
 
 - 🔭 I’m currently working on [Brest Cancer Detection](https://github.com/Abdou-ch-d/Breast-Cancer-Detection.git)
 
